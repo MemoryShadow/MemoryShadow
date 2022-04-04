@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 以上就是我觉着我这个账户下值得一提的东西了, 祝您浏览愉快~
 
-[![github stats](https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=888&hide_border=true&username=MemoryShadow&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&text_color=888&hide_border=true&username=MemoryShadow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=888&hide_border=true&username=MemoryShadow&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&text_color=888&hide_border=true&username=MemoryShadow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
